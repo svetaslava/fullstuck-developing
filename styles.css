@@ -1,0 +1,13 @@
+*{
+    padding: 10px; 
+    margin: 0;
+    justify-content: center;
+}   
+div{
+     border-style:solid;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 16px;
+}
+

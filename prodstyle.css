@@ -32,7 +32,18 @@ img:hover{
 }
 .options:hover + .hide {
     display:block;
-
-
-  }
+}
+button{
+    width: 10%;
+    padding: 20px 12px 20px 12px;
+    margin: 0 auto;
+    align-items: center;
+    color: #fff;
+    font-weight: 30;
+    border-radius: 7px;
+    background-color: violet;
+    border: none;
+    cursor: pointer;
+    gap: 6px;
+}
   
